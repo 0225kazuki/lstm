@@ -1,0 +1,8 @@
+LibriSpeech
+*.dump
+models
+simple-examples*
+
+!lstm_soseki
+!*.ipynb
+!/wav_samples
